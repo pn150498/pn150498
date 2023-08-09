@@ -8,4 +8,4 @@
 pn150498/pn150498 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
-hey i am Pulkit , ihave learnt python ,ML,AI and you can find many projects in this field 
+hey i am Pulkit , ihave learnt python ,ML,AI and you can find many
